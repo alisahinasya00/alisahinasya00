@@ -8,7 +8,7 @@
 
 📫 Bana ulaşmak için: [LinkedIn](https://www.linkedin.com/in/alisahinasya00/) veya alisahinasya@gmail.com üzerinden iletişime geçebilirsiniz.
 
-🌐 Kişisel web sitem: [www.alisahinasya.com]([https://www.alisahinasya.com](https://alisahinasya.netlify.app/))
+🌐 Kişisel web sitem: [(https://alisahinasya.netlify.app/)](https://alisahinasya.netlify.app/)
 
 😄 Zamirlerim: O
 
