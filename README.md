@@ -6,7 +6,7 @@
 
 💞️ Açık kaynak projelerde, özellikle web uygulamaları ve backend alanlarında iş birliği yapmak istiyorum.
 
-🎓 Eğitim **Konya Teknik Üniversitesi**, Yazılım Mühendisliği - 4. Sınıf
+🎓 Eğitim Konya Teknik Üniversitesi, Yazılım Mühendisliği - 4. Sınıf
 
 📫 Bana ulaşmak için: [LinkedIn](https://www.linkedin.com/in/alisahinasya00/) veya alisahinasya00@gmail.com üzerinden iletişime geçebilirsiniz.
 
