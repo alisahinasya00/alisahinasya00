@@ -1,6 +1,6 @@
 👋 Merhaba, ben Alişahin Asya
 
-👀 İlgi alanlarım: uygulama geliştirme, web tabanlı çözümler ve veri tabanı yönetimi.
+👀 İlgi alanlarım: uygulama geliştirme, web tabanlı çözümler, API geliştirme ve veri tabanı yönetimi.
 
 🌱 Şu anda JavaScript kütüphanelerini öğreniyorum, böylece programlama becerilerimi geliştirebilirim.
 
