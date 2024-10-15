@@ -6,7 +6,9 @@
 
 💞️ Açık kaynak projelerde, özellikle web uygulamaları ve backend alanlarında iş birliği yapmak istiyorum.
 
-📫 Bana ulaşmak için: [LinkedIn](https://www.linkedin.com/in/alisahinasya00/) veya alisahinasya@gmail.com üzerinden iletişime geçebilirsiniz.
+🎓 Eğitim **Konya Teknik Üniversitesi**, Yazılım Mühendisliği - 4. Sınıf
+
+📫 Bana ulaşmak için: [LinkedIn](https://www.linkedin.com/in/alisahinasya00/) veya alisahinasya00@gmail.com üzerinden iletişime geçebilirsiniz.
 
 🌐 Kişisel web sitem: [(https://alisahinasya.netlify.app/)](https://alisahinasya.netlify.app/)
 
