@@ -2,9 +2,9 @@
 
 👀 İlgi alanlarım: uygulama geliştirme, web tabanlı çözümler, API geliştirme ve veri tabanı yönetimi.
 
-🌱 Şu anda JavaScript kütüphanelerini öğreniyorum, böylece programlama becerilerimi geliştirebilirim.
+🌱 Şu anda Java ve JavaScript kütüphanelerini öğreniyorum, böylece programlama becerilerimi geliştirebilirim.
 
-💞️ Açık kaynak projelerde, özellikle web uygulamaları ve backend alanlarında çalışmak istiyorum.
+💼 Açık kaynak projelerde, özellikle web uygulamaları ve backend alanlarında çalışmak istiyorum.
 
 🎓 Eğitim: Konya Teknik Üniversitesi, Yazılım Mühendisliği - 4. Sınıf
 
